@@ -150,20 +150,22 @@ h1 {
 
 .proyectos-recientes {
   padding: 40px;
+  
 }
 
 .proyectos-recientes img {
   height: 100%;
   width: 100%;
   padding: 10px;
-  border-radius: 10px;
-  display: block;
+  border-radius: 15px;
+  display:block;
   transition: all 0.2s ease;
 }
 
 .proyectos-contenedor {
   padding-top: 60px;
   margin-bottom: 40px;
+  
 
 }
 
@@ -185,7 +187,7 @@ h1 {
 }
 
 .proyecto {
-  position: relative;
+  position:relative;
 }
 
 .proyecto:hover img {
@@ -197,7 +199,7 @@ h1 {
 }
 
 .overlay .iconos-contenedor {
-  display: flex;
+  display:flex;
 }
 
 .overlay i {
